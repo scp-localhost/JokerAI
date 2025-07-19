@@ -1,0 +1,13 @@
+setup.py
+joker_core/CackleCrypt_Monolith.py
+joker_core/__init__.py
+joker_core/manic_reasoning.py
+joker_core/sadism_amplifier.py
+jokerai.egg-info/PKG-INFO
+jokerai.egg-info/SOURCES.txt
+jokerai.egg-info/dependency_links.txt
+jokerai.egg-info/requires.txt
+jokerai.egg-info/top_level.txt
+tests/__init__.py
+tests/test_mania.py
+tests/test_sadism.py

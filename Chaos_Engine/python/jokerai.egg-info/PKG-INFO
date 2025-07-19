@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: jokerai
+Version: 0.1
+Summary: Pathological cognition simulation framework
+Author: Arkham Clinical Research
+License: GPL-3.0 (Gotham Public License)
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Psychology :: Psychopathology
