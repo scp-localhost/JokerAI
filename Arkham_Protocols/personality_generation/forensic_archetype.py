@@ -152,3 +152,6 @@ Flags: Insight={flags.get('insight')}, Compliance={flags.get('treatment_complian
 
     def __str__(self):
         return f"<ForensicArchetype: {len(self.traits)} personas>"
+
+fa=ForensicArchetype()
+print(fa.generate_prompts("Harley Quinn",False))
